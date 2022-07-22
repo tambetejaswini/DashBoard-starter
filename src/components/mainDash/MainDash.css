@@ -1,0 +1,4 @@
+.Maindash {
+  display: flex;
+  flex-direction: column;
+}
